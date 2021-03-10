@@ -1,0 +1,2564 @@
+fileFormatVersion: 2
+guid: b81cb7de0fc7de348a9b80f2577acbaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8405200485524131504
+    second: DiabloSpriteFallen-Attack_0
+  - first:
+      213: 5314244312509271575
+    second: DiabloSpriteFallen-Attack_1
+  - first:
+      213: 5136409693809023669
+    second: DiabloSpriteFallen-Attack_2
+  - first:
+      213: -2473847864819801138
+    second: DiabloSpriteFallen-Attack_3
+  - first:
+      213: 1948751816901900675
+    second: DiabloSpriteFallen-Attack_4
+  - first:
+      213: -8497067433137023379
+    second: DiabloSpriteFallen-Attack_5
+  - first:
+      213: -4909763535158671956
+    second: DiabloSpriteFallen-Attack_6
+  - first:
+      213: -5874416449987086302
+    second: DiabloSpriteFallen-Attack_7
+  - first:
+      213: 5008848519115943381
+    second: DiabloSpriteFallen-Attack_8
+  - first:
+      213: 5984747590099240464
+    second: DiabloSpriteFallen-Attack_9
+  - first:
+      213: 7922354416629151978
+    second: DiabloSpriteFallen-Attack_10
+  - first:
+      213: 8242200468273371191
+    second: DiabloSpriteFallen-Attack_11
+  - first:
+      213: -1050416828364174385
+    second: DiabloSpriteFallen-Attack_12
+  - first:
+      213: -1103935061901685249
+    second: DiabloSpriteFallen-Attack_13
+  - first:
+      213: -6529630465258699922
+    second: DiabloSpriteFallen-Attack_14
+  - first:
+      213: 22537531475957032
+    second: DiabloSpriteFallen-Attack_15
+  - first:
+      213: -2634373190930024571
+    second: DiabloSpriteFallen-Attack_16
+  - first:
+      213: -8855719898732429246
+    second: DiabloSpriteFallen-Attack_17
+  - first:
+      213: 528121502740678989
+    second: DiabloSpriteFallen-Attack_18
+  - first:
+      213: -58981459623704632
+    second: DiabloSpriteFallen-Attack_19
+  - first:
+      213: 4670286941511269687
+    second: DiabloSpriteFallen-Attack_20
+  - first:
+      213: -737727869745701776
+    second: DiabloSpriteFallen-Attack_21
+  - first:
+      213: -1297912742185008144
+    second: DiabloSpriteFallen-Attack_22
+  - first:
+      213: -4561987072420316051
+    second: DiabloSpriteFallen-Attack_23
+  - first:
+      213: 303436751265510014
+    second: DiabloSpriteFallen-Attack_24
+  - first:
+      213: 3569239570278435182
+    second: DiabloSpriteFallen-Attack_25
+  - first:
+      213: 364606061417107949
+    second: DiabloSpriteFallen-Attack_26
+  - first:
+      213: 2546497763691721341
+    second: DiabloSpriteFallen-Attack_27
+  - first:
+      213: -3715936534901630540
+    second: DiabloSpriteFallen-Attack_28
+  - first:
+      213: 3060820270367411345
+    second: DiabloSpriteFallen-Attack_29
+  - first:
+      213: 5779018112628512907
+    second: DiabloSpriteFallen-Attack_30
+  - first:
+      213: 1717668998855578520
+    second: DiabloSpriteFallen-Attack_31
+  - first:
+      213: -5228298798905789174
+    second: DiabloSpriteFallen-Attack_32
+  - first:
+      213: -1759057557358793688
+    second: DiabloSpriteFallen-Attack_33
+  - first:
+      213: 7939141713744053640
+    second: DiabloSpriteFallen-Attack_34
+  - first:
+      213: -1873876239080609167
+    second: DiabloSpriteFallen-Attack_35
+  - first:
+      213: 3627799538002596636
+    second: DiabloSpriteFallen-Attack_36
+  - first:
+      213: -3016863589426201934
+    second: DiabloSpriteFallen-Attack_37
+  - first:
+      213: 72468206960533543
+    second: DiabloSpriteFallen-Attack_38
+  - first:
+      213: 408298850005893453
+    second: DiabloSpriteFallen-Attack_39
+  - first:
+      213: 3623440765648808588
+    second: DiabloSpriteFallen-Attack_40
+  - first:
+      213: 2237458778776841064
+    second: DiabloSpriteFallen-Attack_41
+  - first:
+      213: 8767048609584756155
+    second: DiabloSpriteFallen-Attack_42
+  - first:
+      213: 5182216947361781518
+    second: DiabloSpriteFallen-Attack_43
+  - first:
+      213: 9105229984723579075
+    second: DiabloSpriteFallen-Attack_44
+  - first:
+      213: 4336429860214520431
+    second: DiabloSpriteFallen-Attack_45
+  - first:
+      213: -3130133286222310526
+    second: DiabloSpriteFallen-Attack_46
+  - first:
+      213: -5167507496850587058
+    second: DiabloSpriteFallen-Attack_47
+  - first:
+      213: -2092925463441636126
+    second: DiabloSpriteFallen-Attack_48
+  - first:
+      213: -8366944814170202611
+    second: DiabloSpriteFallen-Attack_49
+  - first:
+      213: -5720366573231485136
+    second: DiabloSpriteFallen-Attack_50
+  - first:
+      213: -3556546079577942935
+    second: DiabloSpriteFallen-Attack_51
+  - first:
+      213: 7383748538376423842
+    second: DiabloSpriteFallen-Attack_52
+  - first:
+      213: 7920906273937983486
+    second: DiabloSpriteFallen-Attack_53
+  - first:
+      213: 778382286229545560
+    second: DiabloSpriteFallen-Attack_54
+  - first:
+      213: -6772835568122207085
+    second: DiabloSpriteFallen-Attack_55
+  - first:
+      213: -7250527420495145340
+    second: DiabloSpriteFallen-Attack_56
+  - first:
+      213: 8199316102675017495
+    second: DiabloSpriteFallen-Attack_57
+  - first:
+      213: 2381530648744266545
+    second: DiabloSpriteFallen-Attack_58
+  - first:
+      213: 6544366184607848364
+    second: DiabloSpriteFallen-Attack_59
+  - first:
+      213: -3557374840145845886
+    second: DiabloSpriteFallen-Attack_60
+  - first:
+      213: 2096193845862437554
+    second: DiabloSpriteFallen-Attack_61
+  - first:
+      213: 8630504283855944016
+    second: DiabloSpriteFallen-Attack_62
+  - first:
+      213: 107539759647160554
+    second: DiabloSpriteFallen-Attack_63
+  - first:
+      213: 1672454843147833276
+    second: DiabloSpriteFallen-Attack_64
+  - first:
+      213: -3328858693143605132
+    second: DiabloSpriteFallen-Attack_65
+  - first:
+      213: -4094505650956903523
+    second: DiabloSpriteFallen-Attack_66
+  - first:
+      213: -4870556956817242758
+    second: DiabloSpriteFallen-Attack_67
+  - first:
+      213: -6903095395032765480
+    second: DiabloSpriteFallen-Attack_68
+  - first:
+      213: 8494736969337608771
+    second: DiabloSpriteFallen-Attack_69
+  - first:
+      213: 7956761893465888143
+    second: DiabloSpriteFallen-Attack_70
+  - first:
+      213: -3973582169909661702
+    second: DiabloSpriteFallen-Attack_71
+  - first:
+      213: 2831219419193961967
+    second: DiabloSpriteFallen-Attack_72
+  - first:
+      213: 5250550258197765242
+    second: DiabloSpriteFallen-Attack_73
+  - first:
+      213: -9041414935716597755
+    second: DiabloSpriteFallen-Attack_74
+  - first:
+      213: -970670446764055413
+    second: DiabloSpriteFallen-Attack_75
+  - first:
+      213: -8600427123132461775
+    second: DiabloSpriteFallen-Attack_76
+  - first:
+      213: 2200516679162664820
+    second: DiabloSpriteFallen-Attack_77
+  - first:
+      213: -165943019875377897
+    second: DiabloSpriteFallen-Attack_78
+  - first:
+      213: 6651243722765450825
+    second: DiabloSpriteFallen-Attack_79
+  - first:
+      213: -8595422374806957441
+    second: DiabloSpriteFallen-Attack_80
+  - first:
+      213: -7978165005500634562
+    second: DiabloSpriteFallen-Attack_81
+  - first:
+      213: 1468801815086975585
+    second: DiabloSpriteFallen-Attack_82
+  - first:
+      213: 6538095421686104898
+    second: DiabloSpriteFallen-Attack_83
+  - first:
+      213: 1435335446692947909
+    second: DiabloSpriteFallen-Attack_84
+  - first:
+      213: -3388765965780531679
+    second: DiabloSpriteFallen-Attack_85
+  - first:
+      213: 6974432728428429975
+    second: DiabloSpriteFallen-Attack_86
+  - first:
+      213: -4754560749645880821
+    second: DiabloSpriteFallen-Attack_87
+  - first:
+      213: 9076432032868764570
+    second: DiabloSpriteFallen-Attack_88
+  - first:
+      213: -2116675161527815937
+    second: DiabloSpriteFallen-Attack_89
+  - first:
+      213: 4764142944502292553
+    second: DiabloSpriteFallen-Attack_90
+  - first:
+      213: 1860407323519962964
+    second: DiabloSpriteFallen-Attack_91
+  - first:
+      213: -3631957788280172205
+    second: DiabloSpriteFallen-Attack_92
+  - first:
+      213: 8709389180381231102
+    second: DiabloSpriteFallen-Attack_93
+  - first:
+      213: -5219197563049504787
+    second: DiabloSpriteFallen-Attack_94
+  - first:
+      213: -7003412098807469075
+    second: DiabloSpriteFallen-Attack_95
+  - first:
+      213: -2675545010867512740
+    second: DiabloSpriteFallen-Attack_96
+  - first:
+      213: -1887675717611123181
+    second: DiabloSpriteFallen-Attack_97
+  - first:
+      213: 3838487547486710716
+    second: DiabloSpriteFallen-Attack_98
+  - first:
+      213: 664006295026766073
+    second: DiabloSpriteFallen-Attack_99
+  - first:
+      213: 1973010104036724735
+    second: DiabloSpriteFallen-Attack_100
+  - first:
+      213: 8935584731001785510
+    second: DiabloSpriteFallen-Attack_101
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4b951f4545a470800000000000000
+      internalID: 8405200485524131504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e41c0db0dffb940800000000000000
+      internalID: 5314244312509271575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba1c541761384740800000000000000
+      internalID: 5136409693809023669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ae0559702badd0800000000000000
+      internalID: -2473847864819801138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b5d9d37b5b0b10800000000000000
+      internalID: 1948751816901900675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d35f503a541a80800000000000000
+      internalID: -8497067433137023379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca583bbe3140ddbb0800000000000000
+      internalID: -4909763535158671956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228fecbdc51e97ea0800000000000000
+      internalID: -5874416449987086302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_8
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dda5aba031038540800000000000000
+      internalID: 5008848519115943381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168d3289381e0350800000000000000
+      internalID: 5984747590099240464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_10
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae87de31e5bd1fd60800000000000000
+      internalID: 7922354416629151978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381ef628ad226270800000000000000
+      internalID: 8242200468273371191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc24fb57b2c61f0800000000000000
+      internalID: -1050416828364174385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd404cf8e80ea0f0800000000000000
+      internalID: -1103935061901685249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63cfa3ffa71265a0800000000000000
+      internalID: -6529630465258699922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251db5f3c1105000800000000000000
+      internalID: 22537531475957032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 671.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587bdc45a83d07bd0800000000000000
+      internalID: -2634373190930024571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24002b5fba92a1580800000000000000
+      internalID: -8855719898732429246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498a1965b3445700800000000000000
+      internalID: 528121502740678989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c78bcacca47e2ff0800000000000000
+      internalID: -58981459623704632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dbce3aa3130d040800000000000000
+      internalID: 4670286941511269687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_21
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd6ee396013c5f0800000000000000
+      internalID: -737727869745701776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f30c94dc33ecfde0800000000000000
+      internalID: -1297912742185008144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c76769de090b0c0800000000000000
+      internalID: -4561987072420316051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_24
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72bafa1e16063400800000000000000
+      internalID: 303436751265510014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_25
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c6b08a7c788130800000000000000
+      internalID: 3569239570278435182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_26
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de198b5f7475f0500800000000000000
+      internalID: 364606061417107949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_27
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72fb22693af65320800000000000000
+      internalID: 2546497763691721341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_28
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9da4dc8675e6cc0800000000000000
+      internalID: -3715936534901630540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_29
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c8098a1d73a7a20800000000000000
+      internalID: 3060820270367411345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_30
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8855c9da52333050800000000000000
+      internalID: 5779018112628512907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_31
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893dc769ad266d710800000000000000
+      internalID: 1717668998855578520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_32
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057e9f61f95177b0800000000000000
+      internalID: -5228298798905789174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_33
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 537.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ca922b8729697e0800000000000000
+      internalID: -1759057557358793688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8854335435f7d2e60800000000000000
+      internalID: 7939141713744053640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2e802d77aef5e0800000000000000
+      internalID: -1873876239080609167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1398fa7578885230800000000000000
+      internalID: 3627799538002596636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_37
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf078ac82f126d0800000000000000
+      internalID: -3016863589426201934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72064654375710100800000000000000
+      internalID: 72468206960533543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_39
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d414dcc04a19aa500800000000000000
+      internalID: 408298850005893453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_40
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aaa25bd2c094230800000000000000
+      internalID: 3623440765648808588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_41
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ba29c97ec0d0f10800000000000000
+      internalID: 2237458778776841064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_42
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b1e6b240daa970800000000000000
+      internalID: 8767048609584756155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_43
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0712886bdeeae740800000000000000
+      internalID: 5182216947361781518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_44
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03fa5fd664c5e70800000000000000
+      internalID: 9105229984723579075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_45
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6abb738bf71e2c30800000000000000
+      internalID: 4336429860214520431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_46
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d71f3c588f84d0800000000000000
+      internalID: -3130133286222310526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_47
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428d0c6f435948b0800000000000000
+      internalID: -5167507496850587058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_48
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4013a316f64f2e0800000000000000
+      internalID: -2092925463441636126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_49
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e96108504a2eb80800000000000000
+      internalID: -8366944814170202611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_50
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 403.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc481d8ec2d90b0800000000000000
+      internalID: -5720366573231485136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d27b1f2c94aec0800000000000000
+      internalID: -3556546079577942935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a98cb4cc28587660800000000000000
+      internalID: 7383748538376423842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef78c351a46bced60800000000000000
+      internalID: 7920906273937983486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_54
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522b26b09e5dca00800000000000000
+      internalID: 778382286229545560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_55
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394e1ff4fed0202a0800000000000000
+      internalID: -6772835568122207085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_56
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486582bd9b3f06b90800000000000000
+      internalID: -7250527420495145340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fa515bd82d9c170800000000000000
+      internalID: 8199316102675017495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_58
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b8b14d185ec0120800000000000000
+      internalID: 2381530648744266545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_59
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca711a11f5242da50800000000000000
+      internalID: 6544366184607848364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_60
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281e1304e6aa1aec0800000000000000
+      internalID: -3557374840145845886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_61
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b29dfa523d271d10800000000000000
+      internalID: 2096193845862437554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_62
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05978b77be5b5c770800000000000000
+      internalID: 8630504283855944016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_63
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8fff477de0e7100800000000000000
+      internalID: 107539759647160554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_64
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf45bc91d0c53710800000000000000
+      internalID: 1672454843147833276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_65
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47054b7d7a48dc1d0800000000000000
+      internalID: -3328858693143605132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_66
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b52e7ddc46d27c0800000000000000
+      internalID: -4094505650956903523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_67
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 269.6667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75c99ac04e486cb0800000000000000
+      internalID: -4870556956817242758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbef68ff474330a0800000000000000
+      internalID: -6903095395032765480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_69
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a1fbd344e53e570800000000000000
+      internalID: 8494736969337608771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85166e09c81c6e60800000000000000
+      internalID: 7956761893465888143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff65b4c1100bd8c0800000000000000
+      internalID: -3973582169909661702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_72
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6e32bf038a4720800000000000000
+      internalID: 2831219419193961967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_73
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c963724a3bdd840800000000000000
+      internalID: 5250550258197765242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_74
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50073b9f401768280800000000000000
+      internalID: -9041414935716597755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_75
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84a8aa1f5c7782f0800000000000000
+      internalID: -970670446764055413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_76
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d0e09391525a880800000000000000
+      internalID: -8600427123132461775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_77
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47710d7c24ec98e10800000000000000
+      internalID: 2200516679162664820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_78
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5f5fd3b372bdf0800000000000000
+      internalID: -165943019875377897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_79
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3bf11de6fd4c50800000000000000
+      internalID: 6651243722765450825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_80
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72df2ff3ece6b880800000000000000
+      internalID: -8595422374806957441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_81
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aaea7923dd74190800000000000000
+      internalID: -7978165005500634562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_82
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a45b1087b326410800000000000000
+      internalID: 1468801815086975585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_83
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243453d452bfbba50800000000000000
+      internalID: 6538095421686104898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_84
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 135.66667
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e8a9ebf55be310800000000000000
+      internalID: 1435335446692947909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126c7befe4fa8f0d0800000000000000
+      internalID: -3388765965780531679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c5d74d992ac060800000000000000
+      internalID: 6974432728428429975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a75e5038640eb0800000000000000
+      internalID: -4754560749645880821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_88
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b8e1b48d6f5fd70800000000000000
+      internalID: 9076432032868764570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0fd3cb72f00a2e0800000000000000
+      internalID: -2116675161527815937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_90
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402e3a34c2ad1240800000000000000
+      internalID: 4764142944502292553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_91
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f41f79a9e71d910800000000000000
+      internalID: 1860407323519962964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_92
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d85e62a1b89dc0800000000000000
+      internalID: -3631957788280172205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_93
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7f043b057fdd870800000000000000
+      internalID: 8709389180381231102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_94
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def89d9087fa197b0800000000000000
+      internalID: -5219197563049504787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_95
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb68e24dc1eece90800000000000000
+      internalID: -7003412098807469075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_96
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a5caefcfd8edad0800000000000000
+      internalID: -2675545010867512740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_97
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e88a8afe0adc5e0800000000000000
+      internalID: -1887675717611123181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_98
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba4b6561c054530800000000000000
+      internalID: 3838487547486710716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_99
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f091bf0536073900800000000000000
+      internalID: 664006295026766073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_100
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff8d557c3a816b10800000000000000
+      internalID: 1973010104036724735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiabloSpriteFallen-Attack_101
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1.6666718
+        width: 113.05882
+        height: 134.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac04c758f2910c70800000000000000
+      internalID: 8935584731001785510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
